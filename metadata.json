@@ -1,0 +1,5 @@
+{
+  "name": "Android 17 App Transition",
+  "description": "A React prototype demonstrating the new app switching animation from Android 17 with Material Design 3 dark theme.",
+  "requestFramePermissions": []
+}
